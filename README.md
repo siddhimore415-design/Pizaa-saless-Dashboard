@@ -113,4 +113,4 @@ This project helped me improve my skills in:
 🎯 Data Storytelling using Visualizations
 
 #PowerBI #DataAnalytics #EDA #Dashboard #BusinessIntelligence #DataVisualization #DAX #InternshipProject #DataStorytelling #Analytics #PizzaSalesDashboard
-Screen short:
+Screen short:https://github.com/siddhimore415-design/Pizaa-saless-Dashboard/blob/main/Screenshot%202026-05-19%20201041.png
