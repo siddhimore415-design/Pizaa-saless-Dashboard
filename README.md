@@ -21,7 +21,7 @@ During this project, I performed detailed EDA by:
 
 Calculated total sales revenue generated from all pizza orders.
 
-DAX 
+```DAX id="bhy4ya"
 Total Revenue = SUM(pizza_sales[total_price])
 ```
 
@@ -29,7 +29,7 @@ Total Revenue = SUM(pizza_sales[total_price])
 
 Calculated average customer spending per order.
 
-DAX
+```DAX id="5q0xlh"
 Avg Order Value = [Total Revenue] / [Total Order]
 ```
 
@@ -37,7 +37,7 @@ Avg Order Value = [Total Revenue] / [Total Order]
 
 Calculated total quantity of pizzas sold.
 
-DAX
+```DAX id="ej6s1c"
 Total Pizza Sold = SUM(pizza_sales[quantity])
 ```
 
@@ -45,7 +45,7 @@ Total Pizza Sold = SUM(pizza_sales[quantity])
 
 Calculated total number of unique customer orders.
 
-DAX
+```DAX id="0j43wi"
 Total Order = DISTINCTCOUNT(pizza_sales[order_id])
 ```
 
@@ -53,7 +53,7 @@ Total Order = DISTINCTCOUNT(pizza_sales[order_id])
 
 Measured customer purchasing behavior.
 
-DAX
+```DAX id="4d7h87"
 Avg Pizza per Order = [Total Pizza Sold] / [Total Order]
 ```
 
@@ -113,5 +113,6 @@ This project helped me improve my skills in:
 🎯 Data Storytelling using Visualizations
 
 #PowerBI #DataAnalytics #EDA #Dashboard #BusinessIntelligence #DataVisualization #DAX #InternshipProject #DataStorytelling #Analytics #PizzaSalesDashboard
+
 Screen short:https://github.com/siddhimore415-design/Pizaa-saless-Dashboard/blob/main/Screenshot%202026-05-19%20201041.png
 https://github.com/siddhimore415-design/Pizaa-saless-Dashboard/blob/main/Screenshot%202026-05-19%20201056.png
